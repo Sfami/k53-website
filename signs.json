@@ -3,12 +3,12 @@
         "id": 1,
         "name": "Stop",
         "description": "Description",
-        "image": "https://github.com/Sfami/sfami.github.io/images/drawable/stop.png"
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     },
     {
         "id": 2,
         "name": "Yield",
         "description": "Description",
-        "image": "https://github.com/Sfami/sfami.github.io/images/drawable/yield.png"
+        "image": "https://sfamisoftwares.com/api-js/images/stop.png"
     }
 ]
