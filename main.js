@@ -1,5 +1,5 @@
 function fetchData(){
-    fetch("signs.json", {
+    fetch("https://sfamisoftwares.com/api-js/signs.json", {
         method: "GET",
         headers: {
             "Content-Type": "application/json"
