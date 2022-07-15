@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Stop",
+        "description": "Description",
+        "image": "https://github.com/Sfami/sfami.github.io/blob/main/images/drawable/stop.png"
+    },
+    {
+        "id": 2,
+        "name": "Yield",
+        "description": "Description",
+        "image": "https://github.com/Sfami/sfami.github.io/blob/main/images/drawable/yield.png"
+    }
+]
